@@ -14,5 +14,5 @@ In general, Plan9 is considered beyond the average computer user's knowledge. We
 
 admin/getting-started
 admin/manage-user-and-group-accounts
-admin/acknowledgements
+admin/acknowledgments
 ```
