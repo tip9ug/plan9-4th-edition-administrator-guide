@@ -1,5 +1,5 @@
-Welcome to the Plan 9 (4th Edition) Admistrator Guide!
-======================================================
+Plan 9 (4th Edition) Admistrator Guide
+======================================
 
 ## Introduction
 
