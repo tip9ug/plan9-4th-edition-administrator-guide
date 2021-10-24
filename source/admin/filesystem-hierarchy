@@ -37,3 +37,39 @@ Knowing Plan 9 file system directory structure is necessary for Plan 9 system ad
 /fd  (sys)
 
 /lib  
+
+/lp
+
+/mail
+
+/mips
+
+/mnt (glenda)
+
+/mnt (sys)
+
+/n
+
+/net
+
+/net.alt
+
+/power
+
+/power64
+
+/proc
+
+/rc
+
+/root
+
+/sparc
+
+/srv
+
+/sys
+
+/tmp
+
+/usr
