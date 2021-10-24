@@ -1,4 +1,4 @@
-## Learning the file system hierarchy
+## File System Hierarchy
 
 Knowing Plan 9 file system directory structure is necessary for Plan 9 system administration.
 
