@@ -4,74 +4,74 @@ Knowing Plan 9 file system directory structure is necessary for Plan 9 system ad
 
 ### Directory structure
 
-- /   
+/   
 
 The / directory is the root directory of the file system. It can be referred to as the highest level in the filesystem tree hierarchy.
 
-- /386
+/386
 
-- /acme
+/acme
 
-- /adm
+/adm
 
-- /amd64
+/amd64
 
-- /arm
+/arm
 
-- /bin  
+/bin  
 
-- /boot
+/boot
 
-- /cfg
+/cfg
 
-- /cron
+/cron
 
-- /dev
+/dev
 
-- /dist
+/dist
 
-- /env (glenda)
+/env (glenda)
 
-- /env (sys)
+/env (sys)
 
-- /fd  (glenda)
+/fd  (glenda)
 
-- /fd  (sys)
+/fd  (sys)
 
-- /lib  
+/lib  
 
-- /lp
+/lp
 
-- /mail
+/mail
 
-- /mips
+/mips
 
-- /mnt (glenda)
+/mnt (glenda)
 
-- /mnt (sys)
+/mnt (sys)
 
-- /n
+/n
 
-- /net
+/net
 
-- /net.alt
+/net.alt
 
-- /power
+/power
 
-- /power64
+/power64
 
-- /proc
+/proc
 
-- /rc
+/rc
 
-- /root
+/root
+ 
+/sparc
 
-- /sparc
+/srv (glenda)
 
-- /srv (glenda)
+/sys (sys)
 
-- /sys (sys)
+/tmp
 
-- /tmp
-
-- /usr
+/usr
