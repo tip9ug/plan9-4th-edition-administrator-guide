@@ -4,7 +4,9 @@ Knowing Plan 9 file system directory structure is necessary for Plan 9 system ad
 
 ### Directory structure
 
-- /   The / directory is the root directory of the file system. It can be referred to as the highest level in the filesystem tree hierarchy.
+- /   
+
+The / directory is the root directory of the file system. It can be referred to as the highest level in the filesystem tree hierarchy.
 
 - /386
 
